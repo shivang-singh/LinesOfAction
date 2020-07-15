@@ -1,0 +1,54 @@
+# Determine winner before game starts
+#* java -ea loa.Main
+manual white
+set b8 - black
+set c8 - black
+set d8 - black
+set e8 - black
+set f8 - black
+set g8 - black
+set b1 - black
+set b2 - black
+set b3 - black
+set b4 - black
+set c1 - black
+set d1 - black
+set e1 - black
+set f1 - black
+set g1 - black
+set b8 - black
+set c8 - black
+set d8 - black
+set e8 - black
+set f8 - black
+set g8 - black
+set b1 - black
+set b2 - black
+set b3 - black
+set b4 - black
+set c1 - black
+set d1 - black
+set e1 - black
+set f1 - black
+set a2 - black
+set a3 - black
+set a4 - black
+set a5 - black
+set a6 - black
+set a7 - black
+set h2 - black
+set h3 - black
+set h4 - black
+set h5 - black
+set h6 - black
+set h7 - black
+set c3 black black
+set h8 black black
+set e1 white black
+set d4 white white
+dump
+e1-c3
+#*win+
+
+
+

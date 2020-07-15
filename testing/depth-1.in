@@ -1,0 +1,34 @@
+# Check that find move doesn't go past the end of the game
+#* java -ea loa.Main
+limit 2
+set b8 white black
+set a8 - black
+set a7 - black
+set a6 - black
+set c8 white black
+set d8 - black
+set e8 - black
+set f8 white black
+set g8 white black
+set h8 white black
+set a1 black black
+set a2 black black
+set b2 black black
+set c1 - black
+set d1 - black
+set e1 - black
+set f1 - black
+set g1 - black
+set a3 - black
+set a4 - black
+set h2 - black
+set h3 - black
+set h4 - black
+set h5 - black
+set h6 - black
+set h7 - black
+set e3 black black
+dump
+auto white
+auto black
+#*move/win+
